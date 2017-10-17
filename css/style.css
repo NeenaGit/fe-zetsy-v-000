@@ -64,10 +64,10 @@ header a:hover{
 }
 
 #press{
+	margin-bottom: 50px;
+}
+
+/*#press img{
 	border: 5px #ccc solid;
 	padding: 1px;
-}
-
-#press img{
-
-}
+}*/
