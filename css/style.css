@@ -5,6 +5,12 @@
 	font-family: "Baskerville";
 	src: url(fonts/Baskerville.ttc);
 	font-style: normal;
+	font-weight: 100;
+}
+
+header{
+	font-family: Baskerville;
+	font-weight: 100;
 }
 
 /*////////// Global Styles //////////*/
